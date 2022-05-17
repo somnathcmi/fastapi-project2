@@ -1,0 +1,11 @@
+Visit https://fastapi.tiangolo.com/deployment/deta/ and Follow the steps.
+
+link where this project is deployed: https://feuulb.deta.dev/
+link of info page https://feuulb.deta.dev/info
+
+Note:
+1. .deta directory is automatically created. dont create it manually or dont download it from repo.
+2. To delete Deta project delete it from website by loging in and also delete .deta directory if required.
+3. Filenames main.py and requirements.py need to be exactly like that.
+4. vriable app should contain api instance in main.py file.
+
